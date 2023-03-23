@@ -15,4 +15,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 #
 
-- ### [Link do projeto](https://nlw-setup-murilo.vercel.app)
+- ### [Link do projeto](https://murilonp.github.io/projeto-dark-mode/)
